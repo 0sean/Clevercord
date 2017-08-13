@@ -1,0 +1,7 @@
+{
+  "token": "YourBotToken-discordapp.com/developers/applications/me",
+  "apikey": "YourApiKey-https://www.cleverbot.com/api/#abovetitle",
+  "prefix": "Hey Cleverbot, ",
+  "game": "say Hey Cleverbot, then your question.",
+  "status": "dnd"
+}
